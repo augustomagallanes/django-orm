@@ -58,7 +58,7 @@ Para poder realizar esta práctica necesitará contactar con varios comics. Para
 6 - Si desea puede cerrar esta terminal o dejarla abierta para el siguiente paso
 
 ### 4. Completar la view llamada "comic_list_api_view()"
-Deberá compeltar una view basada en una función llamada "comic_list_api_view()", que se encuentra en el archivo "views.py" dentro de e-commerce.
+Deberá completar una view basada en una función llamada "comic_list_api_view()", que se encuentra en el archivo "views.py" dentro de e-commerce.
 
 Esta view ya está configurada y el endpoint que se le adjudicó (la URL) es:\
 `http://127.0.0.1:8000/e-commerce/comic-list/`.
